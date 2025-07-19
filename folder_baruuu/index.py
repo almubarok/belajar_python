@@ -17,7 +17,7 @@ print(luas_persegi_panjang(6,9))
 # elif x < 0:
 #   print("kurang dari 0")
 
-list_prosess = ['perkalian', 'penjumlahan']
+
 
 a = 2
 b = 3
